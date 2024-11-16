@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, seja bem-vindo! 😀👍
 
-<!--
-**Lejacomeli/Lejacomeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Eu sou a Helena, profissional da área da comunicação e apaixonada por tecnologia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 São Paulo;
+- 🎓 Formada em Publicidade e Propaganda;
+- 📚 Estudante de Front-End e UX.
+
+
+## 🔗 Vamos nos conectar!
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenajacomeli)
+
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lejacomeli)
